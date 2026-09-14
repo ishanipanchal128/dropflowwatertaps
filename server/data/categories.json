@@ -1,0 +1,100 @@
+[
+  {
+    "slug": "ptmt-crystal",
+    "group": "PTMT Series",
+    "name": "PTMT Crystal Series",
+    "shortName": "Crystal Series",
+    "hasRealImages": true,
+    "image": "images/productpage/ptmt/ptmtcrystel/Black/SHORT BODY 90.png"
+  },
+  {
+    "slug": "ptmt-fusion",
+    "group": "PTMT Series",
+    "name": "PTMT Fusion Series",
+    "shortName": "Fusion Series",
+    "hasRealImages": false,
+    "image": "images/productpage/ptmt/ptmtfusion/Blue/02 copy.png"
+  },
+  {
+    "slug": "ptmt-royal",
+    "group": "PTMT Series",
+    "name": "PTMT Royal Series",
+    "shortName": "Royal Series",
+    "hasRealImages": false,
+    "image": "images/productpage/ptmt/ptmtroyal/BLUE/SHORT BODY 90 .png"
+    
+  },
+  {
+    "slug": "ptmt-standard",
+    "group": "PTMT Series",
+    "name": "PTMT Standard Series",
+    "shortName": "Standard Series",
+    "hasRealImages": false,
+    "image": "images/productpage/ptmt/ptmtstandard/BLUE/04 copy.png"
+  },
+  {
+    "slug": "pprc-m-series",
+    "group": "PPRC Series",
+    "name": "PPRC M Series",
+    "shortName": "M Series",
+    "hasRealImages": true,
+    "image": "images/productpage/pprc/M SERIES/BLUE/08 copy.png"
+  },
+  {
+    "slug": "pprc-m-series-crystal",
+    "group": "PPRC Series",
+    "name": "PPRC M Series Crystal",
+    "shortName": "Crystal M Series",
+    "hasRealImages": false,
+    "image": "images/productpage/pprc/CRYSTAL M SERIES/BLACK/12 copy.png"
+  },
+  {
+    "slug": "pprc-standard",
+    "group": "PPRC Series",
+    "name": "PPRC Standard Series",
+    "shortName": "Standard Series",
+    "hasRealImages": false,
+    "image": "images/productpage/pprc/STANDARD/BLUE/04 copy.png"
+  },
+  {
+    "slug": "pprc-royal",
+    "group": "PPRC Series",
+    "name": "PPRC Royal Series",
+    "shortName": "Royal Series",
+    "hasRealImages": false,
+    "image": "images/productpage/pprc/ROYAL/grey/09 copy.png"
+  },
+  {
+    "slug": "pprc-fusion",
+    "group": "PPRC Series",
+    "name": "PPRC Fusion Series",
+    "shortName": "Fusion Series",
+    "hasRealImages": false,
+    "image": "images/productpage/pprc/FUSION/GRAY/10 copy.png"
+  },
+  {
+    "slug": "pprc-delux",
+    "group": "PPRC Series",
+    "name": "PPRC Delux Series",
+    "shortName": "Deluxe Series",
+    "hasRealImages": false,
+    "image": "images/productpage/pprc/DELUX/WHITE/06 copy.png"
+  },
+
+  {
+    "slug": "ptmt-health-faucet",
+    "group": "Accessories",
+    "name": "PTMT Health Faucet",
+    "shortName": "Health Faucet",
+    "hasRealImages": true,
+    "image": "images/productpage/accesories/Health/01.png"
+  },
+  {
+    "slug": "other-bath-accessories",
+    "group": "Accessories",
+    "name": "Other Bath Accessories",
+    "shortName": "Bath Accessories",
+    "hasRealImages": false,
+    "image": "images/productpage/accesories/Bath/delux.png"
+  }
+]
