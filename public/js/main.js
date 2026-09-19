@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // ===== Hero slider (image + heading + paragraph swap, no animation) =====
   const HERO_SLIDES = [
     {
-      image: 'images/hero/first.png',
+      image: 'images/hero/copy 1.png',
       alt: 'Premium PTMT water tap',
       headingHTML: 'Premium <strong>PTMT</strong><br><span class="accent">Water Taps</span>',
       paragraph: 'Upgrade your bathroom and kitchen with high-quality PTMT water taps designed for durability, style, and smooth performance. Rust-proof, lightweight, and long-lasting \u2013 perfect for modern homes.'
