@@ -16,7 +16,7 @@ const CATALOG_PRODUCTS = [
     "name": "Long Body",
     "tagline": "Stylish, Reliable, Strong",
     "mrp": 182,
-    "image": "images/productpage/ptmt/ptmtcrystel/Black/LONG BODY 90.png"
+    "image": "images/productpage/ptmt/ptmtcrystel/Black/Long Body 90.png"
   },
   {
     "id": "ptmt-crystal-short-body-90",
@@ -34,7 +34,7 @@ const CATALOG_PRODUCTS = [
     "name": "Long Body 90\u00b0",
     "tagline": "Stylish, Reliable, Strong",
     "mrp": 187,
-    "image": "images/productpage/ptmt/ptmtcrystel/Black/LONG BODY 90.png"
+    "image": "images/productpage/ptmt/ptmtcrystel/Black/Long Body 90.png"
   },
   {
     "id": "ptmt-crystal-angle-cock",
@@ -1619,7 +1619,7 @@ const CATALOG_CATEGORIES =[
     "name": "PTMT Crystal Series",
     "shortName": "Crystal Series",
     "hasRealImages": true,
-    "image": "images/productpage/ptmt/ptmtcrystel/Black/SHORT BODY 90.png"
+    "image": "images/productpage/ptmt/ptmtcrystel/Black/Short Body 90.png"
   },
   {
     "slug": "ptmt-fusion",
